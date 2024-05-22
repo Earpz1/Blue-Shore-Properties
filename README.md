@@ -1,0 +1,1 @@
+# Blue-Shore-Properties
