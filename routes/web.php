@@ -10,6 +10,10 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/testing', function () {
-    return 'Hello';
+Route::get('/listings', function () {
+    return view('listings');
+});
+
+Route::get('/property', function () {
+    return view('property');
 });

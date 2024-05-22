@@ -50,7 +50,7 @@
         <nav class="navbar navbar-expand-lg">
           <div class="container">
             <!-- Logo Start -->
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="./">
               <img src="images/logo.png" alt="Logo" />
             </a>
             <!-- Logo End -->
@@ -62,10 +62,7 @@
                   <a class="nav-link" href="./">Home</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="property-single.html">Properties</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="about.html">About us</a>
+                  <a class="nav-link" href="/listings">Properties</a>
                 </li>
                 <li class="nav-item highlighted-menu">
                   <a class="nav-link" href="/contact">Contact</a>
@@ -110,7 +107,7 @@
                   class="hero-content-footer wow fadeInUp"
                   data-wow-delay="0.75s"
                 >
-                  <a href="#" class="btn-default">View Properties</a>
+                  <a href="/listings" class="btn-default">View Properties</a>
                   <a href="#" class="btn-default btn-border">Contact Now</a>
                 </div>
               </div>
@@ -132,7 +129,7 @@
             <!-- Section Title Start -->
             <div class="section-title">
               <h3 class="wow fadeInUp">Property Types</h3>
-              <h2 class="text-anime">Explore Property Types</h2>
+              <h2 class="text-anime">Our Property Listings</h2>
             </div>
             <!-- Section Title End -->
           </div>
@@ -295,7 +292,7 @@
                       <!-- Property Item Footer Start -->
                       <div class="property-footer">
                         <p class="property-price">£900 PCM</p>
-                        <a href="#" class="btn-default">View Property</a>
+                        <a href="/property" class="btn-default">View Property</a>
                       </div>
                       <!-- Property Item Footer Start -->
                     </div>
@@ -357,7 +354,7 @@
                       <!-- Property Item Footer Start -->
                       <div class="property-footer">
                         <p class="property-price">£900 PCM</p>
-                        <a href="#" class="btn-default">View Property</a>
+                        <a href="/property" class="btn-default">View Property</a>
                       </div>
                       <!-- Property Item Footer Start -->
                     </div>
@@ -419,7 +416,7 @@
                       <!-- Property Item Footer Start -->
                       <div class="property-footer">
                         <p class="property-price">£1800 PCM</p>
-                        <a href="#" class="btn-default">View Property</a>
+                        <a href="/property" class="btn-default">View Property</a>
                       </div>
                       <!-- Property Item Footer Start -->
                     </div>
@@ -622,7 +619,7 @@
                       <i class="fa-solid fa-phone-volume"></i>
                       01234 567 875
                     </a>
-                    <a href="#" class="btn-default">Contact Now</a>
+                    <a href="/contact" class="btn-default">Contact Now</a>
                   </div>
                   <!-- CTA Button End -->
                 </div>
@@ -720,7 +717,6 @@
                 <ul>
                   <li><a href="#">Home</a></li>
                   <li><a href="#">Properties</a></li>
-                  <li><a href="#">About Us</a></li>
                   <li><a href="#">Contact Us</a></li>
                 </ul>
               </div>
